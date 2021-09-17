@@ -141,9 +141,9 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="https://github.com/feras98nawafleh/slotmachine"
+                            href="https://ferasnawafleh-slotmachine.netlify.app"
                           >
-                            Learn more
+                            See Live
                           </Button>
                         </CardBody>
                       </Card>
@@ -174,9 +174,9 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="success"
-                            href="https://github.com/feras98nawafleh/movie-list"
+                            href="https://feras98nawafleh.github.io/movie-list"
                           >
-                            Learn more
+                            See Live
                           </Button>
                         </CardBody>
                       </Card>
@@ -207,9 +207,9 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="https://github.com/feras98nawafleh/busMall"
+                            href="https://feras98nawafleh.github.io/busMall/"
                           >
-                            Learn more
+                            See Live
                           </Button>
                         </CardBody>
                       </Card>
